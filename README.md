@@ -2,11 +2,11 @@
 AWS-Deployed, Streamlit hosted web interface to keep track of who messes up our Destiny raid runs
 
 # Backend
-DB - SQL Lite
-API - AWS Chalice-deployed python functions
+* DB - SQL Lite
+* API - AWS Chalice-deployed python functions
 
 # Frontend
-UI - Streamlit (python)
+* UI - Streamlit (python)
 
 # Goals:
 * Ability to create/join a clan
